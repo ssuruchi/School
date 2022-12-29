@@ -37,7 +37,6 @@
 
 <div class="container-fluid">
 	<div class="col-lg-12">
-		
 		<div class="row">
 			<div class="col-md-12">
 				<div class="card">
@@ -47,7 +46,7 @@
 					<i class="fa fa-plus"></i> New 
 				</a></span>
 					</div>
-					<div class="card-body">
+					<div class="card-body table-responsive">
 						<table class="table table-condensed table-bordered table-hover">
 							<thead>
 								<tr style="background-color:#87CEFA">
