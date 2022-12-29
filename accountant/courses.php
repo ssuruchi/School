@@ -32,21 +32,16 @@
 	<body>
         <div class="container-fluid">
 			<div class="col-lg-12">
-				<div class="row mb-4 mt-4">
-					<div class="col-md-12">
-
-					</div>
-				</div>
 				<div class="row">
 					<!-- FORM Panel -->
 
 					<!-- Table Panel -->
 					<div class="col-md-12">
-						<div class="card">
+						<div class="card" >
 							<div class="card-header" style="background-color:#1d3b55">
 						        <b  style="color:white">List of Courses and Fees</b>
 							</div>
-							<div class="card-body">
+							<div class="card-body table-responsive">
 								<table class="table table-condensed table-bordered table-hover">
 									<thead>
 										<tr style="background-color:#87CEFA">
