@@ -74,7 +74,7 @@
                             </tr>
                         </thead>
                         <tbody id='dataTable'>
-                 </div>
+                 </div>z
                 ";
 
                 foreach ($announcements_details as $attribute => $announcement_details) {
